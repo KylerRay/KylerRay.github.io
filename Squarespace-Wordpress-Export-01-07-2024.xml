@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>KylerRay</title>
+    <link>https://kylerray.squarespace.com</link>
+    <pubDate>Sun, 07 Jan 2024 17:55:23 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1272912995</wp:author_id>
+      <wp:author_login>kray3944@gmail.com</wp:author_login>
+      <wp:author_email>kray3944@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Kyler Ray]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Kyler]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Ray]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 07 Jan 2024 19:57:30 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="659ae58fdce9430958dcebfb">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    white-bold'
+  
+  data-section-id="659ae58fdce9430958dcebff"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;video&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-659ae58fdce9430958dcebfe {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(8,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-659ae58fdce9430958dcebfe {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-659ae58fdce9430958dcebfe {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1704650536762_15048 {
+    grid-area: 1/2/9/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1704650536762_15048 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1704650536762_15048 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1704650536762_15048 {
+      grid-area: 1/6/15/22;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1704650536762_15048 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1704650536762_15048 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-659ae58fdce9430958dcebfe"><div class="fe-block fe-block-yui_3_17_2_1_1704650536762_15048"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;isOldBlock&quot;:false,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;nativeVideo&quot;:&quot;659aeb9e58b053103a00de65&quot;,&quot;nativeVideoAssetId&quot;:&quot;7bdb3607-aa6d-48f6-b25c-c7182d470cc3&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1704650536762_15048"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1704650536762_15048" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;659aeb9e58b053103a00de65&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1704651678298,&quot;updatedOn&quot;:1704651884526,&quot;workflowState&quot;:1,&quot;authorId&quot;:&quot;659ae5899b37ed23a45aba75&quot;,&quot;systemDataId&quot;:&quot;7bdb3607-aa6d-48f6-b25c-c7182d470cc3&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;Reel.mov&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;659ae5899b37ed23a45aba75&quot;,&quot;displayName&quot;:&quot;Kyler Ray&quot;,&quot;firstName&quot;:&quot;Kyler&quot;,&quot;lastName&quot;:&quot;Ray&quot;,&quot;avatarUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/659ae5899b37ed23a45aba75/8ba89421-b1a7-43e7-abdf-df91439ea1c6/thirdPartyMemberAvatar-659ae5899b37ed23a45aba75-d8c3a0d3-97a9-405a-964b-eaf65a6c2048?format=300w&quot;,&quot;bio&quot;:&quot;&quot;,&quot;avatarAssetUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/659ae5899b37ed23a45aba75/8ba89421-b1a7-43e7-abdf-df91439ea1c6/thirdPartyMemberAvatar-659ae5899b37ed23a45aba75-d8c3a0d3-97a9-405a-964b-eaf65a6c2048?format=300w&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7bdb3607-aa6d-48f6-b25c-c7182d470cc3/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;659ae58ba5f05760abbf5a4a&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:42.916667&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7bdb3607-aa6d-48f6-b25c-c7182d470cc3/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;659ae58ba5f05760abbf5a4a&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:42.916667,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;68a535f8-9a2b-3928-bbba-df82e470ba6f&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Sun, 07 Jan 2024 19:59:47 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="659ae71cb3ad3f0f986eb04e">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="659ae71cb3ad3f0f986eb052"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-659ae71cb3ad3f0f986eb051 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-659ae71cb3ad3f0f986eb051 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-659ae71cb3ad3f0f986eb051 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-8f213076262c87bd65cc {
+    grid-area: 1/2/15/10;
+    z-index: 0;
+  }
+
+  .fe-block-8f213076262c87bd65cc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-8f213076262c87bd65cc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8f213076262c87bd65cc {
+      grid-area: 2/13/20/27;
+      z-index: 0;
+    }
+
+    .fe-block-8f213076262c87bd65cc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-8f213076262c87bd65cc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-83bdda4fa01a2bd0cb8e {
+    grid-area: 15/2/17/10;
+    z-index: 1;
+  }
+
+  .fe-block-83bdda4fa01a2bd0cb8e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-83bdda4fa01a2bd0cb8e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-83bdda4fa01a2bd0cb8e {
+      grid-area: 4/2/7/13;
+      z-index: 1;
+    }
+
+    .fe-block-83bdda4fa01a2bd0cb8e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-83bdda4fa01a2bd0cb8e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-8d7ca6c07b28f681666b {
+    grid-area: 17/2/29/10;
+    z-index: 2;
+  }
+
+  .fe-block-8d7ca6c07b28f681666b .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-8d7ca6c07b28f681666b .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8d7ca6c07b28f681666b {
+      grid-area: 8/2/14/13;
+      z-index: 2;
+    }
+
+    .fe-block-8d7ca6c07b28f681666b .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-8d7ca6c07b28f681666b .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-659ae71cb3ad3f0f986eb051"><div class="fe-block fe-block-8f213076262c87bd65cc"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-8f213076262c87bd65cc"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg" data-image="https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg" width="6000" height="4000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/659ae58ba5f05760abbf5a4a/7238287a-e20c-4eeb-b28b-e9828c398d7d/me+stare.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-8f213076262c87bd65cc .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-83bdda4fa01a2bd0cb8e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-83bdda4fa01a2bd0cb8e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">My Story</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-8d7ca6c07b28f681666b"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8d7ca6c07b28f681666b"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">As a filmmaker, I am dedicated to sharing my passion for gaming and traveling through captivating storytelling. My journey, team, and achievements are all reflections of my commitment to excellence. Join me on this adventure as I bring my unique perspective to life through my films.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Sun, 07 Jan 2024 18:16:21 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="659ae71d58b053103a002855">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="659ae71d58b053103a002859"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-659ae71d58b053103a002858 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-659ae71d58b053103a002858 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-659ae71d58b053103a002858 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(12,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-7c7cbf8fb1feca2588b4 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+  }
+
+  .fe-block-7c7cbf8fb1feca2588b4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-7c7cbf8fb1feca2588b4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7c7cbf8fb1feca2588b4 {
+      grid-area: 2/2/9/12;
+      z-index: 0;
+    }
+
+    .fe-block-7c7cbf8fb1feca2588b4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-7c7cbf8fb1feca2588b4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-3f42c6a8c055ce32cbe6 {
+    grid-area: 7/2/9/10;
+    z-index: 1;
+  }
+
+  .fe-block-3f42c6a8c055ce32cbe6 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3f42c6a8c055ce32cbe6 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3f42c6a8c055ce32cbe6 {
+      grid-area: 12/2/13/12;
+      z-index: 1;
+    }
+
+    .fe-block-3f42c6a8c055ce32cbe6 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3f42c6a8c055ce32cbe6 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-41435dcb4d4cd14e2bb5 {
+    grid-area: 9/2/23/10;
+    z-index: 2;
+  }
+
+  .fe-block-41435dcb4d4cd14e2bb5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-41435dcb4d4cd14e2bb5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-41435dcb4d4cd14e2bb5 {
+      grid-area: 1/14/11/26;
+      z-index: 2;
+    }
+
+    .fe-block-41435dcb4d4cd14e2bb5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-41435dcb4d4cd14e2bb5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-659ae71d58b053103a002858"><div class="fe-block fe-block-7c7cbf8fb1feca2588b4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7c7cbf8fb1feca2588b4"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Get in Touch</h2><p class="sqsrte-large" style="white-space:pre-wrap;">Reach out to discuss film projects, gaming collaborations, and travel adventures.</p><p class="" style="white-space:pre-wrap;">Kray3944@gmail.com<br>(317)970-2348</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-3f42c6a8c055ce32cbe6"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-3f42c6a8c055ce32cbe6"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <style>
+    #block-3f42c6a8c055ce32cbe6 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/ray_kyler/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/kyler.ray.58/" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/in/kyler-ray-96844b194/" target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="fe-block fe-block-41435dcb4d4cd14e2bb5"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-41435dcb4d4cd14e2bb5"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-659ae71d58b053103a002854" class="sqs-form-block-context">{"secureUrl":"https://kylerray.squarespace.com","formSubmitButtonText":"Send","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"New Form 2","collectionId":"659ae71d58b053103a002856","submissionAnimation":"","captchaTheme":1,"formId":"659ae71d58b053103a002854","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"US","labelLocale":"en-US","fields":[{"type":"SEPARATOR","label":"(","identifier":"LeftParen","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"1","identifier":"1","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":")","identifier":"RightParen","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":"-","identifier":"Dash","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":14,"required":false,"metadata":{}}]},"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"US","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"City","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level2"}},{"type":"SEPARATOR","label":",","identifier":"Comma","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"State","identifier":"State","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"ZIP Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]}},"showTitle":false,"captchaEnabled":true,"buttonVariant":"","objectName":"41435dcb4d4cd14e2bb5","formFields":[{"type":"name","id":"name-yui_3_17_2_1_1553888888520_3744","locked":false,"title":"Name","description":"","required":true,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1553888888520_3745","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true},{"type":"textarea","id":"textarea-yui_3_17_2_1_1553888888520_3747","locked":false,"title":"Message","description":"","placeholder":"","required":true,"textarea":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
+  <div id="form-submission-html-659ae71d58b053103a002854" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="659ae71d58b053103a002854"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://kylerray.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '659ae71d58b053103a002854',
+      collectionId: '659ae71d58b053103a002856',
+      objectName: '41435dcb4d4cd14e2bb5'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="captcha-container
+        align-left
+        
+        
+        "
+        data-theme="light"
+      ></div>
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Send"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
